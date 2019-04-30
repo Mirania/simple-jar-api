@@ -6,6 +6,8 @@ To compile into jar: `mvn clean package`
 
 Base path: **http://localhost:8080/**
 
+![](https://i.imgur.com/tbRCH63.png)
+
 ## /register (creates new user)
 
 **Type:** POST

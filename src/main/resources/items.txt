@@ -1,0 +1,4 @@
+barcode, name, price
+612345678907, Batata, 1.00
+12853478359, Cenoura, 2.00
+83248709823, Tomate, 1.50
